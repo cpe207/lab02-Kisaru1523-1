@@ -1,0 +1,27 @@
+div {
+  border: 1px solid black;
+  margin-top: 0px;
+  margin-bottom: 100px;
+  margin-right: 525px;
+  margin-left: 500px;
+  background-color: lightblue;
+  font-style: italic;
+}
+h1 {
+  text-align: center;
+  color: rgb(246, 111, 8);
+  font-style: italic;
+}
+p {
+  text-align: center;
+  font-style: italic;
+}
+h2 {
+  text-align: center;
+  color: rgb(0, 38, 251);
+  font-style: italic;
+}
+h3 {
+  color: rgb(251, 0, 0);
+  font-style: italic;
+}
